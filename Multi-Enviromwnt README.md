@@ -3,7 +3,7 @@
 > Simulates a real-world company AWS environment with Dev, Staging, and Prod isolation — enforcing IAM permission boundaries so developers can never touch production.
 
 ![AWS](https://img.shields.io/badge/AWS-IAM%20%7C%20Organizations%20%7C%20S3%20%7C%20CloudTrail-orange?logo=amazonaws)
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
