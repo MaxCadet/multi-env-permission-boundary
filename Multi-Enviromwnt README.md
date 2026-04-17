@@ -12,7 +12,7 @@
 
 The **Multi-Environment Permission Boundary System** models a company's AWS infrastructure across three isolated environments: **Dev**, **Staging**, and **Prod**. Using IAM permission boundaries, developer roles are strictly scoped to the Dev environment — they can deploy, test, and iterate freely in Dev, but are blocked from modifying or accessing Staging and Prod resources entirely.
 
-This project demonstrates a core real-world cloud security pattern used by engineering teams to enforce environment separation and prevent accidental or unauthorized changes to production.
+This project demonstrates a   core real-world cloud security pattern used by engineering teams to enforce environment separation and prevent accidental or unauthorized changes to production.
 
 ---
 
@@ -50,7 +50,7 @@ AWS Account
 
 ## 🛠️ Tech Stack
 
-| Service | Purpose |
+| Service | Purpose | 
 |---|---|
 | AWS IAM | Roles, policies, and permission boundaries per environment |
 | AWS S3 | Simulated environment resources (dev/staging/prod buckets) |
